@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a Software Developer and UI designer that focu
 ![Tools](https://skillicons.dev/icons?i=git,figma,heroku,azure,ai)
 
 - **Languages**: C#, JavaScript, Java, TypeScript, HTML, CSS
-- **Frameworks**: Vue, Flutter, React
+- **Frameworks**: Vue, Flutter, React, NextJS
 - **Databases**: MySQL, MongoDB, Firebase
-- **Tools**: Git, Jira, Heroku, Jetbrains IDEs (PHP Storm and IntelliJ), VS Code, Adobe Creative Cloud
+- **Tools**: Git, Jira, Heroku, Azure, Jetbrains IDEs (PHP Storm and IntelliJ), VS Code, Adobe Creative Cloud
 
 ---
 
