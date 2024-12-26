@@ -76,6 +76,6 @@ Check out more of my projects [here](https://github.com/jugooch?tab=repositories
 
 ## 🎯 Goals for 2024:
 
-- Update my portfolio site
 - Build and deploy a consumer-facing personal application
 - Learn about Web3 and Crypto
+- Explore ways Web3 can be used to improve user experiences
