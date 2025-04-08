@@ -74,8 +74,8 @@ Check out more of my projects [here](https://github.com/jugooch?tab=repositories
 
 ---
 
-## 🎯 Goals for 2024:
+## 🎯 Goals for 2025:
 
-- Build and deploy a consumer-facing personal application
+- Build up the user base for Clarity Learn
 - Learn about Web3 and Crypto
 - Explore ways Web3 can be used to improve user experiences
