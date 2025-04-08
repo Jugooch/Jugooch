@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jugooch&color=blue)
 
-Welcome to my GitHub profile! I'm a Software Developer and UI designer that focuses on User Retention. Here, you'll find various projects that I've worked on, showcasing my skills and experience.
+Welcome to my GitHub profile! I'm a Software Developer and UI designer that focuses on User Retention. Here, you'll find various projects that I've worked on, showcasing my skills and experience. Also, go try out our app [Clarity Learn](https://clarityla.com) while you're here :)
 
 ---
 
