@@ -62,8 +62,8 @@ Check out more of my projects [here](https://github.com/jugooch?tab=repositories
 
 ## 🌱 Currently Learning:
 
-- NextJS
-- Tailwind CSS
+- Python
+- Entrepreneurship
 
 ---
 
