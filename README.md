@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jugooch&color=blue)
 
-Welcome to my GitHub profile! I'm a Software Developer and UI designer that focuses on User Retention. Here, you'll find various projects that I've worked on, showcasing my skills and experience.
+Welcome to my GitHub profile! I'm a Full-stack Developer and UI designer that focuses on User Retention. Here, you'll find various projects that I've worked on, showcasing my skills and experience.
 
 ---
 
@@ -42,6 +42,11 @@ Check out more of my projects [here](https://github.com/jugooch?tab=repositories
 
 ## 💼 Experience:
 
+- **Software Engineer** at **Legends Global** (09/2025 - Present)
+  - Worked on the e-commerce platforms, specifically web applications supporting multi-tenancy.
+  - Utilized Java for backend development and Next.js for frontend development
+  - Engaged in full-stack software development, including API integration and frontend implementation.
+
 - **Software Developer** at **Reynolds and Reynolds** (08/2024 - Present)
   - Contributed to the development of Auto Vision, a web application designed for car dealerships to view, track, and sell cars.
   - Utilized C# for backend development and Vue.js for frontend development
@@ -62,8 +67,8 @@ Check out more of my projects [here](https://github.com/jugooch?tab=repositories
 
 ## 🌱 Currently Learning:
 
-- Python
-- Entrepreneurship
+- Web3 & Solana Blockchains
+- Content Creation
 
 ---
 
@@ -74,7 +79,6 @@ Check out more of my projects [here](https://github.com/jugooch?tab=repositories
 
 ---
 
-## 🎯 Goals for 2025:
+## 🎯 Goals for 2026:
 
-- Learn about Web3 and Crypto
 - Explore ways Web3 can be used to improve user experiences
