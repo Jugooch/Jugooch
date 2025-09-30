@@ -47,13 +47,13 @@ Check out more of my projects [here](https://github.com/jugooch?tab=repositories
   - Utilized Java for backend development and Next.js for frontend development
   - Engaged in full-stack software development, including API integration and frontend implementation.
 
-- **Software Developer** at **Reynolds and Reynolds** (08/2024 - Present)
+- **Software Developer** at **Reynolds and Reynolds** (08/2024 - 05/2025)
   - Contributed to the development of Auto Vision, a web application designed for car dealerships to view, track, and sell cars.
   - Utilized C# for backend development and Vue.js for frontend development
   - Engaged in full-stack software development, including API integration and frontend implementation.
   - Collaborated with a dynamic team by participating in code reviews while debugging and continuously improving the application
 
-- **UI/UX Developer and Designer** at **ClearStack AI** (05/2024 - Present)
+- **UI/UX Developer and Designer** at **ClearStack AI** (05/2024 - 12/24)
   - Interfaced directly with clients to gather requirements and understand their design needs.
   - Utilized Figma to create, iterate and refine user interfaces.
   - Developed front-end code for full-stack applications leveraging Vue.JS and Flutter while contributing to organizations CI/CD pipeline.
